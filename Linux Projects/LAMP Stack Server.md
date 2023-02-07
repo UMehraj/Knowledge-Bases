@@ -19,7 +19,7 @@
 ### 2. How to setup a LAMP Stack server on CentOS 7?
 --- 
 ```
-To setup a LAMP stack server, execute the following commands on a CentOS 7 server with a user who has sudo privileges or as the root user:  
+To setup a LAMP stack server on a CentOS 7 server change to a user who has sudo privileges or as the root user:  
 ```
 <details><summary>Steps to Install the <em>Apache</em> Web Server</summary> <br/>
 
