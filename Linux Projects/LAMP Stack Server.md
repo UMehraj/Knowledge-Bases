@@ -125,9 +125,7 @@ With Apache, MySQl, and PHP installed, you have successfully configured a LAMP S
 ---
 ### 3. Additional Information and Optional Configurations - 
 ---
-```
-In this section we will cover where the Apache Web Server Logs, and Root Web Directory are located. Additionally we will cover steps you take on your MariaDB database to make it more secure.
-```
+
 <ul> <details><summary> <em>Apache </em> Web Server Logs </summary> <br/>
 
 The <em>Apache</em> web server logs are located underneath the following directory: ``` /var/log/httpd/ ```. 
